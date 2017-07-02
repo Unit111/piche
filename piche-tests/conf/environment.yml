@@ -1,0 +1,2 @@
+defaultTestEnvironment: &defaultTestEnvironment
+  testString: "yml works!"

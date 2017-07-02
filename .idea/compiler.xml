@@ -10,7 +10,7 @@
         <module name="piche-tests" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="piche" target="1.5" />
       <module name="piche-core" target="1.5" />
       <module name="piche-tests" target="1.5" />
