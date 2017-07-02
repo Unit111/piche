@@ -20,7 +20,7 @@ import org.junit.runner.RunWith;
         plugin = {
                 "pretty", "html:target/cucumber-reports",
                 "json:target/cucumber-reports/cucumber.json"},
-        tags = {"@Test1"}
+        tags = {"@Rest"}
 )
 public class Runner {
 }

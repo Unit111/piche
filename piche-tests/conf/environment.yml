@@ -1,2 +1,6 @@
 defaultTestEnvironment: &defaultTestEnvironment
   testString: "yml works!"
+  apiUrl: "http://httpbin.org"
+
+
+#http://httpbin.org/
