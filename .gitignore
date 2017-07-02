@@ -1,4 +1,3 @@
 *.lst
 */target/**
 target/**
-.idea/*
